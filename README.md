@@ -1,1 +1,1 @@
-# vancouver-erecycle
+# Vancouver E-Recycle Project
